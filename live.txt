@@ -1,6 +1,6 @@
 <item>
 <title>Globo</title>
-<link>http://5.79.68.138:8081/look/globo/playlist.m3u8</link>
+<link>http://lista.sv1.tv:25461/live/junior intercapas/semestral/3416.ts</link>
 <thumbnail>https://listaiptvbrasil.com/logo/globo.png</thumbnail>
 <fanart></fanart>
 </item>
