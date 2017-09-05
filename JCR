@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Rádios" tvg-logo="https://imgur.com/4amkGnG" tvg-name=""radio=true,Rádio SB4 FM
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://lh4.ggpht.com/wIU8CYFq4_chM6V8BgOx-qB5ueUSs6jY2hdPy48vLCdDjUlXzPLlEdpAauqkmcE9RQQ=w300" tvg-name=""radio=true,Rádio SB4 FM
 http://72.55.164.118:8749/stream
 
 #EXTINF:-1 group-title="Rádios" tvg-logo="http://brasilradiofm.com/sites/default/files/radio/logos/logo-fm-o-dia.jpg" tvg-name=""radio=true,Rádio FM O Dia
