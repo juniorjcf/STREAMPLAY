@@ -1,0 +1,96 @@
+#EXTM3U
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://lh4.ggpht.com/wIU8CYFq4_chM6V8BgOx-qB5ueUSs6jY2hdPy48vLCdDjUlXzPLlEdpAauqkmcE9RQQ=w300" tvg-name=""radio=true,Rádio SB4 FM
+http://72.55.164.118:8749/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://brasilradiofm.com/sites/default/files/radio/logos/logo-fm-o-dia.jpg" tvg-name=""radio=true,Rádio FM O Dia
+http://audio.bb07.upx.net.br:8058/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://pbs.twimg.com/profile_images/1592841029/AVATAR_-_TWITTER_MIX_MARINGA.png" tvg-name=""radio=true,Rádio Mix FM
+http://mixaac.crossradio.com.br:1100/live
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.funknoticias.net/assets/611fa81bbf8b4f54937d22e1dcce8ac6.jpg" tvg-name=""radio=true,Rádio Funk Mania Net
+http://199.233.234.10:17438/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.cocacola.com.br/etc/designs/projectux-coca-cola/main/images/ccfm_logo_fb.jpg" tvg-name=""radio=true,Rádio Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://player.radiomania.com.br/imagens/logo.png" tvg-name=""radio=true,Rádio Mania FM
+http://radio.servercsi.com.br:8595/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://brasilradiofm.com/sites/default/files/radio/logos/logo-transamerica.png" tvg-name=""radio=true,Rádio Transamerica FM
+http://transamerica.crossradio.com.br:9114/live.mp3
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://visualbest.com.br/wp-content/uploads/2014/12/mzl.kjktdwna.png" tvg-name=""radio=true,Rádio Jovem Pan FM
+http://live.webradio.upx.net.br:8112/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://truckers.fm/Assets/Images/Logos/logo.jpg" tvg-name=""radio=true,Rádio Truckers FM
+https://radio.truckers.fm/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://auvaromaia.com/wp-content/uploads/2016/06/FM-995.png" tvg-name=""radio=true,Rádio 99.5 FM
+http://srv6.zoeweb.tv:1935/serradourada/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://cdn-radiotime-logos.tunein.com/s126553q.png" tvg-name=""radio=true,Rádio Funk Neurótico
+http://stm15.liderstreaming.com.br:18184/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://pbs.twimg.com/profile_images/667660197272420352/lsjIZYCX_400x400.jpg" tvg-name=""radio=true,Web Brasil Funk
+http://stm14.hostriopreto.com.br:11774/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.mundodofunk.com/img/logo.png" tvg-name=""radio=true,Rádio Mundo do Funk
+http://servidor32.brlogic.com:8278/live
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.portaldn7.com.br/wp-content/uploads/2014/12/LOGO-415x260.png" tvg-name=""radio=true,Rádio Funk Brasil
+http://170.75.146.178:12206/;
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/104.png" tvg-name=""radio=true,Rádio 104 FM
+http://noasrv.caster.fm:10127/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/eldorado.png" tvg-name=""radio=true,Rádio Eldorado FM
+http://noasrv.caster.fm:10136/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/pampa.png" tvg-name=""radio=true,Rádio Pampa FM
+http://noasrv.caster.fm:10128/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/pampa.png" tvg-name=""radio=true,Rádio Pampa FM
+http://noasrv.caster.fm:10128/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/liberdade.png" tvg-name=""radio=true,Rádio Liberdade FM
+http://noasrv.caster.fm:10129/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/continental.png" tvg-name=""radio=true,Rádio Continental FM
+http://noasrv.caster.fm:10126/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/caicara.png" tvg-name=""radio=true,Rádio Caiçara FM/AM
+http://noasrv.caster.fm:10130/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/capao.png" tvg-name=""radio=true,Rádio Capão FM
+http://noasrv.caster.fm:10131/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/praia.png" tvg-name=""radio=true,Rádio Praia FM
+http://noasrv.caster.fm:10132/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/grenal.png" tvg-name=""radio=true,Rádio Grenal FM
+http://noasrv.caster.fm:10115/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/tramandai.png" tvg-name=""radio=true,Rádio Tramandaí FM
+http://noasrv.caster.fm:10133/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/premium.png" tvg-name=""radio=true,Rádio FM Premium
+http://noasrv.caster.fm:10125/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/xangrila.png" tvg-name=""radio=true,Rádio Xangri-lá FM
+http://noasrv.caster.fm:10137/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/princesa.png" tvg-name=""radio=true,Rádio Princesa FM
+http://noasrv.caster.fm:10124/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.redepampa.com.br/novo/radiosonline/jplayer-html5/gifs/imbe.png" tvg-name=""radio=true,Rádio Imbé FM
+http://noasrv.caster.fm:10135/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://tune-radio.com/wp-content/uploads/2016/04/170768.png" tvg-name=""radio=true,Rádio Xtremo Stereo
+http://94.23.6.53:8053/stream
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://www.radiomaanaim.com.br/images/radio-maanaim-logo.png" tvg-name=""radio=true,Rádio Maanaim
+http://radiomaanaim.icmpessrv.org.br:1935/liverm/rmaac/playlist.m3u8
+
+#EXTINF:-1 group-title="Rádios" tvg-logo="http://gazetaweb.globo.com/portal/radioHome/img/logo-radio-gazetafm-arapiraca.png" tvg-name=""radio=true,Gazeta Arapiraca
+http://209.126.127.123:8080/live
