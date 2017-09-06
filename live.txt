@@ -2,5 +2,5 @@
 <title>Globo</title>
 <link>http://lista.sv1.tv:25461/live/junior intercapas/semestral/1811.ts</link>
 <thumbnail>https://listaiptvbrasil.com/logo/globo.png</thumbnail>
-<fanart>https://imgur.com/J4ufm42</fanart>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
