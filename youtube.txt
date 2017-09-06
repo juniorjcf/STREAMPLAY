@@ -2,5 +2,5 @@
 <title>Simple Kodi - Create a Wizard</title>
 <utube></utube>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://imgur.com/J4ufm42</fanart>
 </item>
