@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>Live TV</name>
-<thumbnail>https://i.imgur.com/8F654AH.png</thumbnail>
+<thumbnail>https://i.imgur.com/8F654AH.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/juniorjcf/STREAMPLAY/master/live.txt</externallink>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 <info>STREAMPLAY</info>
@@ -9,7 +9,7 @@
 
 <channel>
 <name>Movies</name>
-<thumbnail>https://i.imgur.com/2qeYVhQ.png</thumbnail>
+<thumbnail>https://i.imgur.com/2qeYVhQ.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/juniorjcf/STREAMPLAY/master/movies.txt</externallink>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 <info>STREAMPLAY</info>
@@ -17,7 +17,7 @@
 
 <channel>
 <name>Series</name>
-<thumbnail>https://i.imgur.com/XT1EdIg.png</thumbnail>
+<thumbnail>https://i.imgur.com/XT1EdIg.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/juniorjcf/STREAMPLAY/master/series.txt</externallink>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 <info>STREAMPLAY</info>
@@ -25,7 +25,7 @@
 
 <channel>
 <name>Adulto</name>
-<thumbnail>https://i.imgur.com/XT1EdIg.png</thumbnail>
+<thumbnail>https://i.imgur.com/XT1EdIg.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/juniorjcf/STREAMPLAY/master/adulto.txt</externallink>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 <info>STREAMPLAY</info>
@@ -33,7 +33,7 @@
 
 <channel>
 <name>Radios</name>
-<thumbnail>https://i.imgur.com/1a2y09m.png</thumbnail>
+<thumbnail>https://i.imgur.com/1a2y09m.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/juniorjcf/STREAMPLAY/master/radios.txt</externallink>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 <info>STREAMPLAY</info>
