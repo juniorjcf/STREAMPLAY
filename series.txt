@@ -2,5 +2,5 @@
 <title>2 Garotas em Apuros</title>
 <link>http://v2.ec.cx/RedeCanais/RedeCanais/RCServer09/ondemand/2BRKGLT01EP01.mp4</link>
 <thumbnail>http://i.imgur.com/yhTcMGHh.jpg</thumbnail>
-<fanart>https://imgur.com/J4ufm42</fanart>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
