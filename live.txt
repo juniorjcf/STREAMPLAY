@@ -2,5 +2,5 @@
 <title>Globo</title>
 <link></link>
 <thumbnail>https://listaiptvbrasil.com/logo/globo.png</thumbnail>
-<fanart></fanart>
+<fanart>https://imgur.com/J4ufm42</fanart>
 </item>
