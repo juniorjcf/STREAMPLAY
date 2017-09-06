@@ -1,6 +1,6 @@
 <item>
 <title>CELTA</title>
 <utube>nmPgi7xdAYI</utube>
-<thumbnail></thumbnail>
-<fanart>https://imgur.com/J4ufm42</fanart>
+<thumbnail>https://i.imgur.com/Vht14Uv.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
