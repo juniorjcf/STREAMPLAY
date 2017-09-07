@@ -1,6 +1,6 @@
 <item>
 <title>Globo RJ HD</title>
-<link>http://lista.sv1.tv:25461/live/juniorintercapas/semestral/3416.ts</link>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/772.ts</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/a/ae/Globo_logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
