@@ -1,7 +1,8 @@
 <item>
 <title>Globo RJ HD</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://lista.sv1.tv:25461/live/junior intercapas/semestral/1811.ts</link>
-<thumbnail>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435</thumbnail>
+<link>url=http://lista.sv1.tv:25461/live/junior intercapas/semestral/1811.ts</link>
+<plugin>plugin.video.f4mTester/?streamtype=TSDOWNLOADER</plugin>
+<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png</thumbnail>
 <group-title>Canais Abertos,Globo RJ HD</group-title>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
