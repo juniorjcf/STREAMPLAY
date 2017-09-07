@@ -6,37 +6,30 @@
 </item>
 
 <item>
-<title>Radio Kids</title>
-<link>ttp://192.99.150.31:9431/;</link>
+<title>Radio Bossa Nova</title>
+<link>http://177.124.130.10:9974/stream</link>
 <thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title>Maanaim</title>
-<link>http://radiomaanaim.icmpessrv.org.br:1935/liverm/rmaac/playlist.m3u8</link>
-<thumbnail>http://www.radiomaanaim.com.br/images/radio-maanaim-logo.png</thumbnail>
+<title>Radio Pagode</title>
+<link>http://177.124.130.10:9061/stream</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title>Maanaim</title>
-<link>http://radiomaanaim.icmpessrv.org.br:1935/liverm/rmaac/playlist.m3u8</link>
-<thumbnail>http://www.radiomaanaim.com.br/images/radio-maanaim-logo.png</thumbnail>
+<title>Radio Anos 2000</title>
+<link>http://177.124.130.10:9940/stream</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title>Maanaim</title>
-<link>http://radiomaanaim.icmpessrv.org.br:1935/liverm/rmaac/playlist.m3u8</link>
-<thumbnail>http://www.radiomaanaim.com.br/images/radio-maanaim-logo.png</thumbnail>
-<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
-</item>
-
-<item>
-<title>Maanaim</title>
-<link>http://radiomaanaim.icmpessrv.org.br:1935/liverm/rmaac/playlist.m3u8</link>
-<thumbnail>http://www.radiomaanaim.com.br/images/radio-maanaim-logo.png</thumbnail>
+<title>Radio Lounge</title>
+<link>http://177.124.130.10:9064/stream</link>
+<thumbnail>http://i.imgur.com/MmJBR9j.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
