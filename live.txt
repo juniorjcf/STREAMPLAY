@@ -4,3 +4,10 @@
 <thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/a/ae/Globo_logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
+
+<item>
+<title>A&E</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://iptv.sv1.tv:25461/live/walci/teste/874.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
