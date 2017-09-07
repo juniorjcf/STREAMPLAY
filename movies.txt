@@ -1,9 +1,6 @@
 <item>
 <title>A Bailarina</title>
-<link>
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dnpkt5yg68egf.cloudfront.net/filmes/A.Bailarina.2017.1080p.BluRay.X264-AMIABLE.DUAL-FG4LL4RD0.mp4#
-sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dnpkt5yg68egf.cloudfront.net/filmes/A.Bailarina.2017.1080p.BluRay.X264-AMIABLE.DUAL-FG4LL4RD0.mp4#
-</link>
+<link>http://dnpkt5yg68egf.cloudfront.net/filmes/A.Bailarina.2017.1080p.BluRay.X264-AMIABLE.DUAL-FG4LL4RD0.mp4</link>
 <thumbnail>https://image.tmdb.org/t/p/w185/y1eMrHDBUyI9oi3uXxUT8xC6XSs.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
@@ -14,3 +11,13 @@ sublink:plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dnpk
 <thumbnail>https://image.tmdb.org/t/p/w185/y1eMrHDBUyI9oi3uXxUT8xC6XSs.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR red]teste[/COLOR]</title>
+<link>
+sublink: ::-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dnpkt5yg68egf.cloudfront.net/filmes/A.Bailarina.2017.1080p.BluRay.X264-AMIABLE.DUAL-FG4LL4RD0.mp4-#
+sublink: ::-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://dnpkt5yg68egf.cloudfront.net/filmes/A.Bailarina.2017.1080p.BluRay.X264-AMIABLE.DUAL-FG4LL4RD0.mp4-#
+</link>
+<thumbnail>https://image.tmdb.org/t/p/w185/y1eMrHDBUyI9oi3uXxUT8xC6XSs.jpg</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>﻿
