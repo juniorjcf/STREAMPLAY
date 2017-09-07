@@ -1,6 +1,21 @@
 <item>
 <title>A Bailarina</title>
-<link>http://dnpkt5yg68egf.cloudfront.net/filmes/A.Bailarina.2017.1080p.BluRay.X264-AMIABLE.DUAL-FG4LL4RD0.mp4</link>
+<link>
+sublink: http://dnpkt5yg68egf.cloudfront.net/filmes/A.Bailarina.2017.1080p.BluRay.X264-AMIABLE.DUAL-FG4LL4RD0.mp4
+sublink: http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ABLRN.mp4 
+</link>
 <thumbnail>https://image.tmdb.org/t/p/w185/y1eMrHDBUyI9oi3uXxUT8xC6XSs.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
+
+<item>
+<title></title>
+<link>
+sublink: ::--#
+sublink: ::--#
+sublink: ::--#
+sublink: ::--#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>﻿
