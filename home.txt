@@ -25,7 +25,7 @@
 
 <channel>
 <name>[COLOR gold]ADULTO[/COLOR]</name>
-<thumbnail>https://i.imgur.com/XT1EdIg.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/T4SE13t.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/juniorjcf/STREAMPLAY/master/adulto.txt</externallink>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 <info>STREAMPLAY</info>
