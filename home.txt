@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>B][COLOR gold]LIVE TV[/COLOR][/B]</name>
+<name>[COLOR gold]LIVE TV[/COLOR]</name>
 <thumbnail>https://i.imgur.com/8F654AH.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/juniorjcf/STREAMPLAY/master/live.txt</externallink>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
