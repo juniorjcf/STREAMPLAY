@@ -71,7 +71,7 @@
 <item>
 <title>BAND SPORTS</title>
 <link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/84.ts</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/BandSports_logo.svg</thumbnail>
+<thumbnail>http://mcbmoto.com.br/wp-content/uploads/2017/06/BandSports-HD_Logotipo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
