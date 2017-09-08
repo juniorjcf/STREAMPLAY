@@ -22,7 +22,7 @@
 <item>
 <title>ANIMAL PLANET HD</title>
 <link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/295.ts</link>
-<thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_HD_2007.png</thumbnail>
+<thumbnail>http://www.exorbeo.com/wp-content/uploads/2016/08/Animal_Planet_HD.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -64,7 +64,7 @@
 <item>
 <title>BAND HD</title>
 <link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/296.ts</link>
-<thumbnail>http://home.ldsoft.com.br/wp-content/uploads/2016/06/Logo_Band_2011.png</thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-MhSJnwL_iHg/U4S_Rg_7buI/AAAAAAAAAqM/GFSVSLxwjsE/s1600/Logo%2B-%2BTV%2BBAND%2BHD.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -92,7 +92,7 @@
 <item>
 <title>BAND NEWS HD</title>
 <link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/857.ts</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1200px-BandNews_TV_logo_2010.svg.png</thumbnail>
+<thumbnail>http://rd1.ig.com.br/wp-content/uploads/2014/04/BandSports-HD_Logotipo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -176,7 +176,7 @@
 <item>
 <title>CINEMAX</title>
 <link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/91.ts</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-8YvPX1bR6tg/UzdVokFbrXI/AAAAAAAAh3k/O_CZ4jMcHI4/s1600/Cinemax.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
