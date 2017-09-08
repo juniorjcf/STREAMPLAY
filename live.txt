@@ -1,6 +1,6 @@
 <item>
 <title>A&E</title>
-<link>http://iptv.servidorfull.com:8081/live/Sexte12/sY8sUitBJy/87.ts</link>
+<link>http://149.56.98.189:25461/live/PriscilaGomes/dVCjttY3mA/132.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
