@@ -629,5 +629,130 @@
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
+<item>
+<title>H2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/106.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>H2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/523.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://vignette4.wikia.nocookie.net/logopedia/images/b/b9/H2hd.png/revision/latest?cb=20120229052144</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>HBO</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/69.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://nakededgefilms.com/wp-content/uploads/2010/10/HBO.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>HBO HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/306.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://1.bp.blogspot.com/-zFmdj3tlL-c/UpUhUqucKtI/AAAAAAAAB5o/lEq90DZYp8g/s1600/hbo+hd.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>HBO 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/107.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>HBO 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/305.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://vignette4.wikia.nocookie.net/logopedia/images/1/1e/Hbo_2_hd.png/revision/latest?cb=20160331175116</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>HBO FAMILY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/108.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>HBO FAMILY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/524.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://foromedios.com/uploads/gallery/category_6/gallery_1157_6_8916.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>HBO PLUS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/68.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.downloadingzoo.com/wp-content/uploads/2014/10/HBOPLUS.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>HBO PLUS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/525.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://foromedios.com/uploads/gallery/album_1/gallery_1157_1_11888.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>HBO PLUS E</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/352.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://balance01.dyndns.tv/logos/hboplus-e.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>HBO SIGNATURE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/67.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.fetchlogos.com/wp-content/uploads/2015/10/HBO-Signature-Logo.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>HBO SIGNATRE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/542.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://balance01.dyndns.tv/logos/hb0_signature_hd.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>HEART TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/767.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/1200px-The_Heart_Network_logo.svg.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>HISTORY</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/109.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://midia.gruposinos.com.br/_midias/png/2016/03/15/history_channel_logo-1375411.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>HISTORY HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/290.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1280px-History_HD_Logo.svg.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>DISCOVERY INVESTIGATION</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/110.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/d5/Idlogo2016.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>DISCOVERY INVESTIGATION HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/508.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://garo.tk/logos/Investigaci%F3nDiscovery.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
 plugin://plugin.video.f4mTester/?url=                             &amp;streamtype=TSDOWNLOADER</link>
 
