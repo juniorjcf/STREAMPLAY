@@ -300,7 +300,7 @@
 </item>
 
 <item>
-<title>ISCOVERY WORLD HD</title>
+<title>DISCOVERY WORLD HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/537.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
@@ -323,7 +323,7 @@
 <item>
 <title>DISNEY JR</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/97.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/0/0c/LogoDisneyJunior.svg/revision/latest?cb=20121021192240</thumbnail>
+<thumbnail>https://www.brisbanekids.com.au/wp-content/uploads/2015/08/DJTC_4C_Logo_0614.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -532,7 +532,7 @@
 </item>
 
 <item>
-<title>FTURA</title>
+<title>FUTURA</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/102.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://portal.pucminas.br/puctv/imagens/parceiros/Futura_1.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
@@ -562,7 +562,7 @@
 <item>
 <title>GLOBO NEWS</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/71.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
+<thumbnail>http://auvaromaia.com/wp-content/uploads/2016/09/Globo-News.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
