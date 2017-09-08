@@ -22,7 +22,7 @@
 <item>
 <title>ANIMAL PLANET HD</title>
 <link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/295.ts</link>
-<thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_HD_2007.pn</thumbnail>
+<thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_HD_2007.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -118,14 +118,14 @@
 </item>
 
 <item>
-<title>,CANAL BRASIL</title>
+<title>CANAL BRASIL</title>
 <link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/159.ts</link>
 <thumbnail>http://www.mgconecta.com.br/wp-content/planos/includes/grade/color/Canal%20Brasil%20HD.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title>,CANAL BRASIL HD</title>
+<title>CANAL BRASIL HD</title>
 <link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/847.ts</link>
 <thumbnail>http://www.mgconecta.com.br/wp-content/planos/includes/grade/color/Canal%20Brasil%20HD.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
@@ -162,7 +162,7 @@
 <item>
 <title>CBS</title>
 <link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/666.ts</link>
-<thumbnail>http://i.imgur.com/hsDrbep.jpg</thumbnail>
+<thumbnail>https://s3.amazonaws.com/Mend/website/press+logos/cbs.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -190,7 +190,7 @@
 <item>
 <title>CURTA!</title>
 <link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/155.ts</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.vcfaz.tv/userpix/10229_curta_2.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
