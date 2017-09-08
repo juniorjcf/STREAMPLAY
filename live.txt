@@ -1,6 +1,6 @@
 <item>
 <title>A&E</title>
-<link>http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/843.ts</link>
+<link>http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/87.ts</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
