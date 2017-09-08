@@ -1,6 +1,6 @@
 <item>
 <title>Resident Evil 6</title>
-<link>plugin://plugin.video.f4mTester/?http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/REVIL06.mp4&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/REVIL06.mp4&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://i.imgur.com/vVq3kku.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
