@@ -419,6 +419,126 @@
 </item>
 
 <item>
+<title>ESPORTE INTERATIVO HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/42.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://1.bp.blogspot.com/-Rm9dUlzd-H8/VbA0RQ6HizI/AAAAAAAAk2Q/w1q9IUwj9eA/s1600/EI-oscuro.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>FISH TV</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/162.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>FOOD NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/173.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/1/1f/2000px-Food_Network.svg.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>FOOD NETWORK HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/870.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/eb/Food_Network_Canada_HD.PNG</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>FOX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/75.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://vignette4.wikia.nocookie.net/logopedia/images/8/88/Fox_logo_orange.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>FOX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/291.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://vignette2.wikia.nocookie.net/logopedia/images/d/d2/FOX_HD_LatAm.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+
+<item>
+<title>FOX PREMIUM 1 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/302.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/foxpremium1.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>FOX PREMIUM 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/303.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/foxpremium2.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>FOX LIFE</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/74.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://1.bp.blogspot.com/-lJRgPTH2cYQ/Uh_7raV0xnI/AAAAAAAAbxY/Hz2K-9tQs-g/s1600/Fox+Life+logo+2013.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>FOX LIFE HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/539.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://vignette3.wikia.nocookie.net/logosfake/images/a/af/Fox_Life_HD_old.png/revision/latest?cb=20140414171120</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>FOX SPORTS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/73.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/6/6f/Logo_fox_sports.png/revision/latest?cb=20140414164158</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>FOX SPORTS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/304.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/foxsportshd.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>FOX SPORTS 2</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/72.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>FOX SPORTS 2 HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/518.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/foxsports2hd.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>FX</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/103.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2000px-FX-logo.svg.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>FX HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/513.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://vignette3.wikia.nocookie.net/logosfake/images/a/af/FX_HD.png/revision/latest?cb=20140310141055</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>FTURA</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/102.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>http://portal.pucminas.br/puctv/imagens/parceiros/Futura_1.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
 <title>GLOBO RJ HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/772.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/a/ae/Globo_logo.png</thumbnail>
