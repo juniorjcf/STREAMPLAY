@@ -1,13 +1,217 @@
 <item>
-<title>Globo RJ HD</title>
-<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/772.ts</link>
-<thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/a/ae/Globo_logo.png</thumbnail>
+<title>A&E</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/87.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title>A&E</title>
-<link>http://iptv.sv1.tv:25461/live/walci/teste/874.ts&</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png</thumbnail>
+<title>A&E HD</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/843.ts</link>
+<thumbnail>https://vignette4.wikia.nocookie.net/logosfake/images/a/a4/A%26E_HD.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>ANIMAL PLANET</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/86.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>ANIMAL PLANET HD</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/295.ts</link>
+<thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_HD_2007.pn</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>APARECIDA</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/161.ts</link>
+<thumbnail>https://listaiptvbrasil.com/logo/aparecidahd.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>ARTE 1</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/161.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/671px-Arte_1_logo.svg.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>AXN</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/85.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>AXN HD</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/504.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>BAND</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/88.ts</link>
+<thumbnail>http://home.ldsoft.com.br/wp-content/uploads/2016/06/Logo_Band_2011.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>BAND HD</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/296.ts</link>
+<thumbnail>http://home.ldsoft.com.br/wp-content/uploads/2016/06/Logo_Band_2011.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>BAND SPORTS</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/84.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f7/BandSports_logo.svg</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>BAND SPORTS HD</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/534.ts</link>
+<thumbnail>http://rd1.ig.com.br/wp-content/uploads/2014/04/BandSports-HD_Logotipo.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>BAND NEWS</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/89.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1200px-BandNews_TV_logo_2010.svg.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>BAND NEWS HD</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/857.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1200px-BandNews_TV_logo_2010.svg.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>BIS</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/83.ts</link>
+<thumbnail>http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/bis/logo/bis.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>BIS HD</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/535.ts</link>
+<thumbnail>http://www.clarotvinternet.com/Content/Hotsites/hdtv/img/hdtv/bis-hd.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>BOOMERANG</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/90.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>,CANAL BRASIL</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/159.ts</link>
+<thumbnail>http://www.mgconecta.com.br/wp-content/planos/includes/grade/color/Canal%20Brasil%20HD.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>,CANAL BRASIL HD</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/847.ts</link>
+<thumbnail>http://www.mgconecta.com.br/wp-content/planos/includes/grade/color/Canal%20Brasil%20HD.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>CANAL RURAL</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/158.ts</link>
+<thumbnail>http://www.girodoboi.com.br/wp-content/uploads/2016/11/logo_rural_degradee_S_SLOGAN3.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>CANCAO NOVA</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/157.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>CARTOON NETWORK</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/82.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>CARTOON NETWORK HD</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/777.ts</link>
+<thumbnail>https://vignette3.wikia.nocookie.net/powerpuff/images/a/a0/Cartoon_Network_HD_logo.svg.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>CBS</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/666.ts</link>
+<thumbnail>http://i.imgur.com/hsDrbep.jpg</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>CBS NEWS</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/668.ts</link>
+<thumbnail>https://listaiptvbrasil.com/logo/cbsnews.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>CINEMAX</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/91.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>CINEMAX HD</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/842.ts</link>
+<thumbnail>https://img13.deviantart.net/15a1/i/2016/254/9/d/catali2016_s_logo_remake__cinemax_hd_logo_2016_by_catali2016-dah8xet.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>CURTA!</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/155.ts</link>
+<thumbnail></thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>COMBATE</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/135.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f9/Combate_Flat_Sem_Slogan_png.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>COMBATE HD</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/136.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f9/Combate_Flat_Sem_Slogan_png.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+
+<item>
+<title>Globo RJ HD</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/772.ts</link>
+<thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/a/ae/Globo_logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
