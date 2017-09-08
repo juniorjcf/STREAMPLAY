@@ -208,6 +208,19 @@
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
+<item>
+<title>COMEDY CENTRAL</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/156.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/404px-Comedy_Central_UK.svg.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>CULTURA</title>
+<link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/81.ts</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
 
 <item>
 <title>Globo RJ HD</title>
