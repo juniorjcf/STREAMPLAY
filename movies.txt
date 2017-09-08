@@ -1,20 +1,20 @@
 <item>
 <title>Resident Evil 6</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/REVIL06.mp4&amp;streamtype=TSDOWNLOADER</link>
+<link>http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/REVIL06.mp4</link>
 <thumbnail>http://i.imgur.com/vVq3kku.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>The Warrior's Gate</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&url=http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/WRISGT.mp4</link>
+<link>url=http://cdnv3.ec.cx/RedeCanais/RCFServer3/ondemand/WRISGT.mp4</link>
 <thumbnail>http://i.imgur.com/0I8f5FA.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>A Bailarina</title>
-<link>plugin://plugin.video.f4mTester/?url=http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ABLRN.mp4&amp;streamtype=TSDOWNLOADER</link>
+<link>http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/ABLRN.mp4</link>
 <thumbnail>http://i.imgur.com/JjrT51q.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
