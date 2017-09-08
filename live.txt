@@ -92,7 +92,7 @@
 <item>
 <title>BAND NEWS HD</title>
 <link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/857.ts</link>
-<thumbnail>http://rd1.ig.com.br/wp-content/uploads/2014/04/BandSports-HD_Logotipo.png</thumbnail>
+<thumbnail>https://1.bp.blogspot.com/-qpJTXCKl-ss/WRzxuRZybGI/AAAAAAAA5ko/Xj5ArpewrxkGRck0YljpABs6qMY-t7XRACEw/s1600/123fv.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -176,7 +176,7 @@
 <item>
 <title>CINEMAX</title>
 <link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/91.ts</link>
-<thumbnail>http://3.bp.blogspot.com/-8YvPX1bR6tg/UzdVokFbrXI/AAAAAAAAh3k/O_CZ4jMcHI4/s1600/Cinemax.png</thumbnail>
+<thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/cinemax.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
