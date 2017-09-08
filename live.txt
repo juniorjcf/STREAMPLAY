@@ -183,7 +183,7 @@
 <item>
 <title>CINEMAX HD</title>
 <link>http://iptv.servidorfull.com:8081/live/Quit45/HElxfCT90f/842.ts</link>
-<thumbnail>https://img13.deviantart.net/15a1/i/2016/254/9/d/catali2016_s_logo_remake__cinemax_hd_logo_2016_by_catali2016-dah8xet.png</thumbnail>
+<thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/3/36/CinemaxHDLA.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
