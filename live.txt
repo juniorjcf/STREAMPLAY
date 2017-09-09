@@ -1,461 +1,461 @@
 <item>
 <title>A&E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/87.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/87.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>A&E HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/843.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/843.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette4.wikia.nocookie.net/logosfake/images/a/a4/A%26E_HD.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>ANIMAL PLANET</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/86.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/86.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>ANIMAL PLANET HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/295.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/295.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.exorbeo.com/wp-content/uploads/2016/08/Animal_Planet_HD.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>APARECIDA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/161.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/161.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://listaiptvbrasil.com/logo/aparecidahd.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>ARTE 1</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/160.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/160.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/671px-Arte_1_logo.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>AXN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/85.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/85.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>AXN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/504.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/504.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>BAND</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/88.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/88.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://home.ldsoft.com.br/wp-content/uploads/2016/06/Logo_Band_2011.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>BAND HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/296.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/296.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://4.bp.blogspot.com/-MhSJnwL_iHg/U4S_Rg_7buI/AAAAAAAAAqM/GFSVSLxwjsE/s1600/Logo%2B-%2BTV%2BBAND%2BHD.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>BAND SPORTS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/84.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/84.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://mcbmoto.com.br/wp-content/uploads/2017/06/BandSports-HD_Logotipo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>BAND SPORTS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/534.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/534.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://rd1.ig.com.br/wp-content/uploads/2014/04/BandSports-HD_Logotipo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>BAND NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/89.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/89.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/1200px-BandNews_TV_logo_2010.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>BAND NEWS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/857.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/857.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://1.bp.blogspot.com/-qpJTXCKl-ss/WRzxuRZybGI/AAAAAAAA5ko/Xj5ArpewrxkGRck0YljpABs6qMY-t7XRACEw/s1600/123fv.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>BIS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/83.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/83.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/bis/logo/bis.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>BIS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/535.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/535.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.clarotvinternet.com/Content/Hotsites/hdtv/img/hdtv/bis-hd.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>BOOMERANG</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/90.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/90.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>CANAL BRASIL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/159.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/159.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.mgconecta.com.br/wp-content/planos/includes/grade/color/Canal%20Brasil%20HD.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>CANAL BRASIL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/847.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/847.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.mgconecta.com.br/wp-content/planos/includes/grade/color/Canal%20Brasil%20HD.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>CANAL RURAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/158.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/158.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.girodoboi.com.br/wp-content/uploads/2016/11/logo_rural_degradee_S_SLOGAN3.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>CANCAO NOVA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/157.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/157.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>CARTOON NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/82.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/82.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>CARTOON NETWORK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/777.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/777.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette3.wikia.nocookie.net/powerpuff/images/a/a0/Cartoon_Network_HD_logo.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>CBS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/666.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/666.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://s3.amazonaws.com/Mend/website/press+logos/cbs.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>CBS NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/668.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/668.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://listaiptvbrasil.com/logo/cbsnews.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>CINEMAX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/91.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/91.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/cinemax.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>CINEMAX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/842.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/842.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/3/36/CinemaxHDLA.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>CURTA!</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/155.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/155.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.vcfaz.tv/userpix/10229_curta_2.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>COMBATE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/135.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/135.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f9/Combate_Flat_Sem_Slogan_png.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>COMBATE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/136.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/136.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f9/Combate_Flat_Sem_Slogan_png.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>COMEDY CENTRAL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/156.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/156.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/404px-Comedy_Central_UK.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>CULTURA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/81.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/81.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISCOVERY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/80.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/80.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.jeffgreenleaf.com/wp-content/uploads/DISCOVERY-CHANNEL.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISCOVERY CHANNEL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/288.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/288.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/e/e3/Discovery_Channel_HD_2008.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISCOVERY CIVILIZATION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/79.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/79.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/logosfake/images/3/39/Discovery_Civilization_2014.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISCOVERY HOME AND HEALTH</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/92.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/92.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://3.bp.blogspot.com/-e7U-6TeiJwo/TdRHH69VEBI/AAAAAAAABYc/1k7NVJGn8B0/s320/Discovery+Home+%2526+Health+icon+2011.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISCOVERY HOME AND HEALTH HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/297.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/297.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette4.wikia.nocookie.net/logosfake/images/d/d9/Discovery_Home_%26_Health_HD.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISCOVERY KIDS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/93.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/93.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette2.wikia.nocookie.net/logopedia/images/e/e6/Logo_Discovery_Kids_2016.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISCOVERY KIDS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/852.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/852.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISCOVERY SCIENCE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/94.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/94.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/6e/Discovery_science.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISCOVERY TURBO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/95.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/95.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISCOVERY TURBO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/298.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/298.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/logosfake/images/9/90/Discovery_Turbo_HD.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISCOVERY THEATER HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/859.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/859.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/0/00/HD_Theater.svg/1200px-HD_Theater.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISCOVERY WORLD HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/537.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/537.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISNEY CHANNEL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/96.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/96.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.dafont.com/forum/attach/orig/4/3/438637.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISNEY CHANNEL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/851.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/851.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/b/bb/Disney_Channel_2014_HD.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISNEY JR</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/97.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/97.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://www.brisbanekids.com.au/wp-content/uploads/2015/08/DJTC_4C_Logo_0614.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISNEY XD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/98.t&amp;streamtype=TSDOWNLOADERs</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/98.t&amp;streamtype=TSDOWNLOADERs</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>E!</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/99.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/99.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>E! HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/869.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/869.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://jorgesalvador.files.wordpress.com/2012/04/e21hdlogo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>EI MAXX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/100.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/100.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/b1/EI_Maxx.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>EI MAXX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/300.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/300.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/b1/EI_Maxx.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>EI MAXX 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/43.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/43.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://www.clarotvlojaonline.com.br/img/channels/20160315163808-ei-maxx-2-hd.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>EI MAXX 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/299.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/299.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://www.clarotvlojaonline.com.br/img/channels/20160315163808-ei-maxx-2-hd.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>ESPN</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/77.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/77.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://a.espncdn.com/prod/assets/watchespn/appletv/images/channels-carousel/espn1.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>ESPN HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/538.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/538.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/6/62/ESPN_HD.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>ESPN +</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/770.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/770.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://1.bp.blogspot.com/-y-JU_MqzZAU/VVephngVeRI/AAAAAAAAkXI/EZVQXWeAf_Y/s1600/espn_plus_andina.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>ESPN + HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/713.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/713.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://1.bp.blogspot.com/-y-JU_MqzZAU/VVephngVeRI/AAAAAAAAkXI/EZVQXWeAf_Y/s1600/espn_plus_andina.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>ESPN BRASIL</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/101.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/101.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vector.me/files/images/6/3/63341/espn_brasil.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>ESPN BRASIL HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/301.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/301.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://4.bp.blogspot.com/-9G_gkVqYYTs/UGbuPPR2mTI/AAAAAAAAAUQ/_q0J1jMJwcw/s1600/ESPN+HD.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>ESPORTE INTERATIVO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/42.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/42.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://1.bp.blogspot.com/-Rm9dUlzd-H8/VbA0RQ6HizI/AAAAAAAAk2Q/w1q9IUwj9eA/s1600/EI-oscuro.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>FISH TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/162.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/162.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>FOOD NETWORK</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/173.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/173.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://vignette2.wikia.nocookie.net/logopedia/images/1/1f/2000px-Food_Network.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>FOOD NETWORK HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/870.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/870.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/eb/Food_Network_Canada_HD.PNG</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>FOX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/75.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/75.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette4.wikia.nocookie.net/logopedia/images/8/88/Fox_logo_orange.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>FOX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/291.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/291.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette2.wikia.nocookie.net/logopedia/images/d/d2/FOX_HD_LatAm.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
@@ -463,294 +463,294 @@
 
 <item>
 <title>FOX PREMIUM 1 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/302.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/302.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/foxpremium1.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>FOX PREMIUM 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/303.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/303.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/foxpremium2.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>FOX LIFE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/74.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/74.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://1.bp.blogspot.com/-lJRgPTH2cYQ/Uh_7raV0xnI/AAAAAAAAbxY/Hz2K-9tQs-g/s1600/Fox+Life+logo+2013.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>FOX LIFE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/539.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/539.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette3.wikia.nocookie.net/logosfake/images/a/af/Fox_Life_HD_old.png/revision/latest?cb=20140414171120</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>FOX SPORTS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/73.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/73.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/6/6f/Logo_fox_sports.png/revision/latest?cb=20140414164158</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>FOX SPORTS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/304.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/304.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/foxsportshd.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>FOX SPORTS 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/72.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/72.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>FOX SPORTS 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/518.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/518.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/foxsports2hd.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>FX</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/103.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/103.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/2000px-FX-logo.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>FX HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/513.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/513.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette3.wikia.nocookie.net/logosfake/images/a/af/FX_HD.png/revision/latest?cb=20140310141055</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>FUTURA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/102.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/102.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://portal.pucminas.br/puctv/imagens/parceiros/Futura_1.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>GLOBO BRASILIA</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/771.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/771.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/a/ae/Globo_logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>GLOBO MINAS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/175.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/175.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/a/ae/Globo_logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>GLOBO MINAS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/170.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/170.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/a/ae/Globo_logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>GLOBO NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/71.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/71.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://auvaromaia.com/wp-content/uploads/2016/09/Globo-News.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>GLOBO NEWS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/856.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/856.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://auvaromaia.com/wp-content/uploads/2016/09/Globo-News.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>GLOBO RJ</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/772.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/772.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/a/ae/Globo_logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>GLOBO RJ HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/329.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/329.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/a/ae/Globo_logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>GLOBO SP</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/351.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/351.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/a/ae/Globo_logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>GLOBO SP HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/528.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/528.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/a/ae/Globo_logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>GLOOB</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/70.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/70.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://woomagazine.com.br/wp-content/uploads/2017/01/alinevallimwoomagazinewoocasual2.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>GLOOB HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/853.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/853.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://3.bp.blogspot.com/-opGMNmRkp9o/Vba5n0VTDOI/AAAAAAAAk20/PvYaCf6qqFw/s1600/20120320050805%2521Logo_Gloob.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>GNT</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/105.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/105.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://g.glbimg.com/og/gs/gsat5/static_files/responsivo/assets/images/gnt/logo/gnt.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>GNT HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/541.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/541.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://g.glbimg.com/og/gs/gsat5/static_files/responsivo/assets/images/gnt/logo/gnt.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>H2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/106.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/106.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>H2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/523.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/523.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette4.wikia.nocookie.net/logopedia/images/b/b9/H2hd.png/revision/latest?cb=20120229052144</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>HBO</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/69.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/69.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://nakededgefilms.com/wp-content/uploads/2010/10/HBO.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>HBO HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/306.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/306.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://1.bp.blogspot.com/-zFmdj3tlL-c/UpUhUqucKtI/AAAAAAAAB5o/lEq90DZYp8g/s1600/hbo+hd.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>HBO 2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/107.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/107.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>HBO 2 HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/305.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/305.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://vignette4.wikia.nocookie.net/logopedia/images/1/1e/Hbo_2_hd.png/revision/latest?cb=20160331175116</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>HBO FAMILY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/108.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/108.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>HBO FAMILY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/524.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/524.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://foromedios.com/uploads/gallery/category_6/gallery_1157_6_8916.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>HBO PLUS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/68.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/68.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.downloadingzoo.com/wp-content/uploads/2014/10/HBOPLUS.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>HBO PLUS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/525.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/525.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://foromedios.com/uploads/gallery/album_1/gallery_1157_1_11888.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>HBO PLUS E</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/352.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/352.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://balance01.dyndns.tv/logos/hboplus-e.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>HBO SIGNATURE</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/67.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/67.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://www.fetchlogos.com/wp-content/uploads/2015/10/HBO-Signature-Logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>HBO SIGNATRE HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/542.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/542.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://balance01.dyndns.tv/logos/hb0_signature_hd.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>HEART TV</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/767.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/767.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/05/The_Heart_Network_logo.svg/1200px-The_Heart_Network_logo.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>HISTORY</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/109.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/109.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://midia.gruposinos.com.br/_midias/png/2016/03/15/history_channel_logo-1375411.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>HISTORY HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/290.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/290.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1280px-History_HD_Logo.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISCOVERY INVESTIGATION</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/110.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/110.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/d5/Idlogo2016.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>DISCOVERY INVESTIGATION HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/508.ts&amp;streamtype=TSDOWNLOADER</link>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Cont1/QhnHeXH3Yy/508.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>http://garo.tk/logos/Investigaci%F3nDiscovery.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
