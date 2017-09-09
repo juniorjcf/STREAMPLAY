@@ -293,7 +293,7 @@
 </item>
 
 <item>
-<title>ISCOVERY THEATER HD</title>
+<title>DISCOVERY THEATER HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Sext8/sROkv2lajB/859.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/0/00/HD_Theater.svg/1200px-HD_Theater.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
