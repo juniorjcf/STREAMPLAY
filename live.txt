@@ -758,7 +758,7 @@
 <item>
 <title>LIVRE TV</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/342.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail></thumbnail>
+<thumbnail>http://logicahost.com.br/blog/wp-content/uploads/2017/02/livretv.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -772,7 +772,7 @@
 <item>
 <title>MAIS GLOBOSAT HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/871.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://vignette2.wikia.nocookie.net/logopedia/images/5/55/Globosat-hd.png/revision/latest/scale-to-width-down/200?cb=20130914160949</thumbnail>
+<thumbnail>https://vignette4.wikia.nocookie.net/logopedia/images/5/5b/Logo_gshd.png/revision/latest?cb=20151122172453</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
