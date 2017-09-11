@@ -1199,7 +1199,7 @@
 <item>
 <title>SONY</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/125.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-2SJwvcmTuAg/VqJmgHW9F_I/AAAAAAAAMmo/a1q8b29baoA/s1600/sonyb.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
