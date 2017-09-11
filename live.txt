@@ -1,14 +1,14 @@
 <item>
 <title>A&E</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/87.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1024px-A%26E_Network_logo.svg.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/2000px-A%26E-Network-Logo.svg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>A&E HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/843.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://vignette4.wikia.nocookie.net/logosfake/images/a/a4/A%26E_HD.png</thumbnail>
+<thumbnail>https://vignette4.wikia.nocookie.net/logosfake/images/a/a4/A%26E_HD.png/revision/latest?cb=20140515141146</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -232,7 +232,7 @@
 <item>
 <title>DISCOVERY CHANNEL HD</title>
 <link>plugin://plugin.video.f4mTester/?url=plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/288.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/e/e3/Discovery_Channel_HD_2008.png</thumbnail>
+<thumbnail>https://vignette1.wikia.nocookie.net/logopedia/images/d/d8/Discovery_Channel_HD_2007.png/revision/latest?cb=20091126085643</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -274,7 +274,7 @@
 <item>
 <title>DISCOVERY SCIENCE</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/94.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/6e/Discovery_science.png</thumbnail>
+<thumbnail>http://vectorlogo4u.com/wp-content/uploads/2015/08/Discovery-Science-Logo-vector-720x340.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
