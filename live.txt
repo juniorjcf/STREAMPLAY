@@ -43,14 +43,14 @@
 <item>
 <title>AXN</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/85.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png</thumbnail>
+<thumbnail>http://3.bp.blogspot.com/-_CGYs9JYnR0/Ti_qxU2V63I/AAAAAAAAABE/4CHnC2y31Ig/s1600/axn.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>AXN HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/504.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/61/AXN_HD_Logo_2015.png</thumbnail>
+<thumbnail>https://vignette2.wikia.nocookie.net/logosfake/images/b/b8/AXN_HD.png/revision/latest?cb=20140311160901</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -288,7 +288,7 @@
 <item>
 <title>DISCOVERY TURBO HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/298.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://vignette1.wikia.nocookie.net/logosfake/images/9/90/Discovery_Turbo_HD.png</thumbnail>
+<thumbnail>http://2.bp.blogspot.com/-050AUHplpUI/VFuobCREnsI/AAAAAAAAkCE/Zs_lGMgmA74/s1600/D.Turbo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -302,7 +302,7 @@
 <item>
 <title>DISCOVERY WORLD HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/537.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png</thumbnail>
+<thumbnail>https://vignette3.wikia.nocookie.net/logosfake/images/5/5b/Discovery_World_HD.png/revision/latest?cb=20151128162240</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
