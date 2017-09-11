@@ -1535,7 +1535,7 @@
 <item>
 <title>VH1 MEGA HITS</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/165.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.tvmagazine.com.br/imagens/icones/600/vh1megahits.png</thumbnail>
+<thumbnail>http://coldplaybrasil.com/wp-content/uploads/2015/03/vh1-mega-hits.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
