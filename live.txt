@@ -968,7 +968,7 @@
 <item>
 <title>PARAMOUNT HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/543.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://www.mgconecta.com.br/wp-content/planos/includes/grade/pb/Paramount%20HD_pb30.png</thumbnail>
+<thumbnail>http://vertelevisor.com/imagenes/paramount-channel.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
