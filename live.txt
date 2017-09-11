@@ -1563,6 +1563,6 @@
 <item>
 <title>WOOHOO</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/134.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://media1.giphy.com/media/KiRJxY5QZFRIY/200_s.gif</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c0/Woohoo_logo.svg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
