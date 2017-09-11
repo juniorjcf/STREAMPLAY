@@ -947,21 +947,21 @@
 <item>
 <title>OFF</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/64.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png</thumbnail>
+<thumbnail>https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-3.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>OFF HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/529.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/ee/Logo_Canal_OFF.png</thumbnail>
+<thumbnail>https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-3.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>PARAMOUNT</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/63.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://balance01.dyndns.tv/logos/paramount-logo.png</thumbnail>
+<thumbnail>http://vertelevisor.com/imagenes/paramount-channel.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -982,7 +982,7 @@
 <item>
 <title>PLAY TV</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/148.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://www.tvmagazine.com.br/imagens/icones/600/playtv.png</thumbnail>
+<thumbnail>https://vignette3.wikia.nocookie.net/logopedia/images/4/42/PlayTV_%282010%29.png/revision/latest?cb=20140422192658</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -1199,7 +1199,7 @@
 <item>
 <title>SONY</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/125.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://www.sonychannel-tv.com/images/logo_sonychannel.png</thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -1563,6 +1563,6 @@
 <item>
 <title>WOOHOO</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/134.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c0/Woohoo_logo.svg</thumbnail>
+<thumbnail>https://media1.giphy.com/media/KiRJxY5QZFRIY/200_s.gif</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
