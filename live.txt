@@ -576,14 +576,14 @@
 <item>
 <title>GLOBO NEWS</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/71.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/bT3yhM0.png</thumbnail>
+<thumbnail>https://i.imgur.com/U4itWGJ.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>GLOBO NEWS HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/856.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/bT3yhM0.png</thumbnail>
+<thumbnail>https://i.imgur.com/U4itWGJ.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
