@@ -546,20 +546,6 @@
 </item>
 
 <item>
-<title>GLOBO NEWS</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/71.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/bT3yhM0.png</thumbnail>
-<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
-</item>
-
-<item>
-<title>GLOBO NEWS HD</title>
-<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/856.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/bT3yhM0.png</thumbnail>
-<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
-</item>
-
-<item>
 <title>GLOBO RJ</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/772.ts&amp;streamtype=TSDOWNLOADER</link>
 <thumbnail>https://i.imgur.com/bT3yhM0.png</thumbnail>
@@ -588,16 +574,30 @@
 </item>
 
 <item>
+<title>GLOBO NEWS</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/71.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://i.imgur.com/bT3yhM0.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
+<title>GLOBO NEWS HD</title>
+<link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/856.ts&amp;streamtype=TSDOWNLOADER</link>
+<thumbnail>https://i.imgur.com/bT3yhM0.png</thumbnail>
+<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
+</item>
+
+<item>
 <title>GLOOB</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/70.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://woomagazine.com.br/wp-content/uploads/2017/01/alinevallimwoomagazinewoocasual2.png</thumbnail>
+<thumbnail>https://i.imgur.com/zPa47VP.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>GLOOB HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/853.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>http://3.bp.blogspot.com/-opGMNmRkp9o/Vba5n0VTDOI/AAAAAAAAk20/PvYaCf6qqFw/s1600/20120320050805%2521Logo_Gloob.png</thumbnail>
+<thumbnail>https://i.imgur.com/zPa47VP.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -870,7 +870,7 @@
 <item>
 <title>MTV HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/854.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/0V5aIx2.png/thumbnail>
+<thumbnail>https://i.imgur.com/0V5aIx2.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -1325,7 +1325,7 @@
 <item>
 <title>TELECINE PREMIUM HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/321.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/NCz0b4n.gif/thumbnail>
+<thumbnail>https://i.imgur.com/NCz0b4n.gif</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -1507,7 +1507,7 @@
 <item>
 <title>UNIVERSAL CHANNEL</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/48.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/ijeNQtu.png</thumbnail>
+<thumbnail>https://i.imgur.com/Y4jCwLA.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -1521,21 +1521,21 @@
 <item>
 <title>VIVA</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/46.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/dUPXfxp.png</thumbnail>
+<thumbnail>https://i.imgur.com/2AidTQN.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>VIVA HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/515.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/dUPXfxp.png</thumbnail>
+<thumbnail>https://i.imgur.com/2AidTQN.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>VH1 MEGA HITS</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/165.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/r4uHYc1.png</thumbnail>
+<thumbnail>https://i.imgur.com/AFRCx38.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
@@ -1549,14 +1549,14 @@
 <item>
 <title>WARNER CHANNEL</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/45.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/pqtfUPY.png</thumbnail>
+<thumbnail>https://i.imgur.com/BXSbJC9.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
 <title>WARNER CHANNEL HD</title>
 <link>plugin://plugin.video.f4mTester/?url=http://iptv.servidorfull.com:8081/live/Rafaelgomes1/i6L3Segzt3/776.ts&amp;streamtype=TSDOWNLOADER</link>
-<thumbnail>https://i.imgur.com/pqtfUPY.png</thumbnail>
+<thumbnail>https://i.imgur.com/BXSbJC9.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
