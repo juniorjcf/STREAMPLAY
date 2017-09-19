@@ -188,337 +188,253 @@
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>Radio Reggae</title>
+<link>http://192.99.150.31:8715/;</link>
 <thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>Sertanejo Universitario</title>
+<link>http://192.99.150.31:9191/;</link>
 <thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>Radio Pop Hits</title>
+<link>http://177.124.130.10:9046/stream</link>
 <thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>Radio Metal</title>
+<link>http://177.124.130.10:9898/stream</link>
 <thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>Trilhas Sonoras</title>
+<link>http://177.124.130.10:9896/stream</link>
 <thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
+<title>Radio Studio Amor</title>
+<link>http://192.99.150.31:8962/stream</link>
 <thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Radio Cachoeira</title>
+<link>http://centova.welltecnologia.com.br:8096/;</link>
+<thumbnail>http://i.imgur.com/TmycWPZ.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Radio Nova FM</title>
+<link>http://stm45.streamingbage.net.br:11454/;</link>
+<thumbnail>http://i.imgur.com/cvHzRir.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Radio Club Bage</title>
+<link>http://stm7.streamingbage.net.br:16766/;</link>
+<thumbnail>http://i.imgur.com/55zvsZG.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Radio Alegria FM</title>
+<link>http://stream.ouveai.com.br:8061/;</link>
+<thumbnail>http://i.imgur.com/Ivdf27M.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Radio Itapema</title>
+<link>http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/6sLoNZn.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Radio Novo Tempo</title>
+<link>http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/ClakDxW.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Radio Atlantida FM</title>
+<link>http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/dT8ZOeg.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Band News FM</title>
+<link>http://evp.mm.uol.com.br:1935/bnewsfm_poa/_definst_/bnewsfm_poa/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/3ku6dPr.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Radio Bandeirantes</title>
+<link>http://evp.mm.uol.com.br:1935/radioam_poa/_definst_/radioam_poa/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/dZKe7DK.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>GR6 Explode FM</title>
+<link>http://216.245.204.227:8054/live</link>
+<thumbnail>http://i.imgur.com/jXGTFcR.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>FM O Dia</title>
+<link>http://audio.bb07.upx.net.br:8058/;</link>
+<thumbnail>http://i.imgur.com/QhSS71Q.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Radio Mix FM</title>
+<link>http://mixaac.crossradio.com.br:1100/live</link>
+<thumbnail>http://i.imgur.com/rV5HHXO.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Radio Coca-Cola</title>
+<link>http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein</link>
+<thumbnail>http://i.imgur.com/NeJf46K.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Radio Mania FM</title>
+<link>http://radio.servercsi.com.br:8595/;</link>
+<thumbnail>http://i.imgur.com/x3j3rYJ.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Radio Transamerica FM</title>
+<link>http://transamerica.crossradio.com.br:9114/live.mp3</link>
+<thumbnail>http://i.imgur.com/O9dknve.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Jovem Pan</title>
+<link>ttp://centova6.ciclanohost.com.br:9256/;</link>
+<thumbnail>http://i.imgur.com/oRYDaYf.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Radio 99.5</title>
+<link>http://srv6.zoeweb.tv:1935/serradourada/stream/playlist.m3u8</link>
+<thumbnail>http://i.imgur.com/IGzepM4.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Radio 104</title>
+<link>http://noasrv.caster.fm:10127/stream</link>
+<thumbnail>http://i.imgur.com/LZk3Bt6.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Radio Eldorado</title>
+<link>http://noasrv.caster.fm:10136/stream</link>
+<thumbnail>http://i.imgur.com/TKZ90g5.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Radio Liberdade</title>
+<link>http://noasrv.caster.fm:10129/stream</link>
+<thumbnail>http://i.imgur.com/ttPklRN.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Continental FM</title>
+<link>http://noasrv.caster.fm:10126/stream</link>
+<thumbnail>http://i.imgur.com/OC6JEfB.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Capao FM</title>
+<link>http://noasrv.caster.fm:10131/stream</link>
+<thumbnail>http://i.imgur.com/Vshg5E2.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Praia FM</title>
+<link>http://noasrv.caster.fm:10132/stream</link>
+<thumbnail>http://i.imgur.com/UIqr0bU.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Grenal FM</title>
+<link>http://noasrv.caster.fm:10115/stream</link>
+<thumbnail>http://i.imgur.com/9Pu8H7t.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Tramandai FM</title>
+<link>http://noasrv.caster.fm:10133/stream</link>
+<thumbnail>http://i.imgur.com/rEXCYFB.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Premium FM</title>
+<link>http://noasrv.caster.fm:10125/stream</link>
+<thumbnail>http://i.imgur.com/n64bR7b.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Xangri-lá FM</title>
+<link>http://noasrv.caster.fm:10137/stream</link>
+<thumbnail>http://i.imgur.com/piuWrsL.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Princesa FM</title>
+<link>http://noasrv.caster.fm:10124/stream</link>
+<thumbnail>http://i.imgur.com/I5y8DaH.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Imbe FM</title>
+<link>http://noasrv.caster.fm:10135/stream</link>
+<thumbnail>http://i.imgur.com/hC90L3k.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
 
 <item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
-<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
-<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
-<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
-<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
-<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
-<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
-<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
-<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
-<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
-<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
-<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
-<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
-</item>
-
-<item>
-<title></title>
-<link></link>
-<thumbnail>https://i.imgur.com/tkOarx6.jpg</thumbnail>
+<title>Gazeta FM</title>
+<link>http://209.126.127.123:8080/live</link>
+<thumbnail>http://gazetaweb.globo.com/portal/radioHome/img/logo-radio-gazetafm-arapiraca.png</thumbnail>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 </item>
