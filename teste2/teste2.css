@@ -1,0 +1,28 @@
+/* Custom login screen */
+.logoLibraryMenuButtonText {
+  display: none;
+}
+
+.imgLogoIcon {
+    display: none;
+}
+
+img[src*="css/images/mblogoicon.png"] {
+    display: none;
+}
+#loginPage {
+    padding-top: 100px;
+}
+#loginPage {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 0px;
+    content: " ";
+    background: url(IMAGE LINK);
+    background-size: 100% 100%;
+    width: 1920px;
+    height: 1080px;
+}
