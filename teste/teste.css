@@ -13,9 +13,6 @@ img[src*="css/images/mblogoicon.png"] {
 #loginPage h1 {
     display: none;
 }
-#loginPage {
-    padding-top: 30px;
-}
 #loginPage:before {
     position: absolute;
     margin-left: auto;
