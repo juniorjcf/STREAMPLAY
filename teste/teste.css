@@ -1,0 +1,25 @@
+.logoLibraryMenuButtonText {
+  display: none;
+}
+img[src*="css/images/mblogoicon.png"] {
+    display: none;
+}
+#loginPage h1 {
+    display: none;
+}
+#loginPage {
+    padding-top: 30px;
+}
+#loginPage:before {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 15px;
+    content: " ";
+    background: url(URLTOIMAGE.png);
+    background-size: 100% 100%;
+    width: 240px;
+    height: 52px;
+}
