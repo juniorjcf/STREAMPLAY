@@ -305,6 +305,11 @@ div.jstree-wholerow.jstree-wholerow-hovered {
 .emby-input-selectionbar {
   background-color: #E81123 !important; }
 
+/*Remove 'Missing Trailer' icon in metadata editor, I don't use trailers*/
+img[src='css/images/editor/missingtrailer.png'] {
+  display:none;
+}
+
 /* Media Info Detail Image */
 .itemDetailImage.loaded:hover {
   border: 1px solid #E81123 !important; }
