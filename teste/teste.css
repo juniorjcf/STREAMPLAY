@@ -2,6 +2,11 @@
 .logoLibraryMenuButtonText {
   display: none;
 }
+
+.imgLogoIcon {
+    display: none;
+}
+
 img[src*="css/images/mblogoicon.png"] {
     display: none;
 }
