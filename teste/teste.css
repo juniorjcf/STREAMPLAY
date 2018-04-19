@@ -14,7 +14,7 @@ img[src*="css/images/mblogoicon.png"] {
     display: none;
 }
 #loginPage {
-    padding-top: 100px;
+    padding-top: 30px;
 }
 #loginPage:before {
     position: absolute;
