@@ -1,5 +1,8 @@
 /* Hide Trailerbutton */
-
 .btnPlayExternalTrailers {
 display:none !important;
+}
+/*Remove 'Missing Trailer' icon in metadata editor, I don't use trailers*/
+.img[src='css/images/editor/missingtrailers.png'] {
+  display:none;
 }
