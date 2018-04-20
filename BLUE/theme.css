@@ -379,7 +379,6 @@ div.scrollContainer.smoothScrollY::-webkit-scrollbar-thumb {
 
 #loginPage {
 .formManualLoginForm;
-    position: absolute;
     left: 0;
     right: 0;
     top: 130px;	
