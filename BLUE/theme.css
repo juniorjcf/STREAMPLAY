@@ -368,8 +368,7 @@ div.scrollContainer.smoothScrollY::-webkit-scrollbar-thumb {
 .pageTitleWithLogo {
   background-image: url(https://cdn.rawgit.com/BenZuser/Emby-Dark-Themes-Resources/master/images/logos-and-icons/BLUE/logo.png) !important; }
 
-#loginPage {
-    width: 70%;	
+#loginPage {	
     position: fixed;
     left: 25%;
     content: " ";
