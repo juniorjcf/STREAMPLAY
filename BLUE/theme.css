@@ -73,7 +73,7 @@ _________________________________________________________________________
   background: #404040 !important;
   color: #fff !important; }
 
- input[type="checkbox"];
+.input-emby-checkbox-focushelper {
    top: 50px;;
 }
 .button-submit, .button-accent {
