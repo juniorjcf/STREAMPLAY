@@ -22,10 +22,10 @@ img[src*="css/images/mblogoicon.png"] {
     margin-right: auto;
     left: 0;
     right: 0;
-    top: 0px;
+    top: 15px;
     content: " ";
     background: url(https://i.imgur.com/r9FT5uu.jpg);
     background-size: 100% 100%;
-    width: 1366px;
+    width: 1280px;
     height: 568px;
 }
