@@ -370,10 +370,10 @@ div.scrollContainer.smoothScrollY::-webkit-scrollbar-thumb {
 
 #loginPage {
     position: fixed;
-    left: 25%;
+    left: 50%;
     content: " ";
     background: url(https://i.imgur.com/tsZhhc7.png);
-    background-size: 50% 50%;
+    background-size: 100% 100%;
     width: 1366px;
     height: 768px;	
 }
