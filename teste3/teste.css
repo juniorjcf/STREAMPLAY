@@ -23,6 +23,6 @@ img[src*="css/images/mblogoicon.png"] {
     content: " ";
     background: url(IMAGE LINK);
     background-size: 100% 100%;
-    width: 1920px;
-    height: 1080px;
+    width: 240px;
+    height: 52px;
 }
