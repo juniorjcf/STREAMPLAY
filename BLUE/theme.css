@@ -374,6 +374,10 @@ div.scrollContainer.smoothScrollY::-webkit-scrollbar-thumb {
     left: 25%;
 }
 
+#loginPage h1 {
+    display: none;
+}
+
 /* 2.2.3 Others	*/
 /* CSS Box */
 #txtCustomCss {
