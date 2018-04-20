@@ -10,16 +10,11 @@
 img[src*="css/images/mblogoicon.png"] {
     display: none;
 }
-#loginPage {
-    width: 50%;
-    position: fixed;
-    left: 25%;
-}
 #loginPage h1 {
     display: none;
 }
 #loginPage {
-    padding-top: 30px;
+    padding-top: -30px;
 }
 #loginPage {
     position: absolute;
