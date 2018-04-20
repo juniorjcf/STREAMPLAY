@@ -1,4 +1,4 @@
-/* CSS#4 - Custom Login Page */
+/* Custom login screen */
 .logoLibraryMenuButtonText {
   display: none;
 }
@@ -21,7 +21,7 @@ img[src*="css/images/mblogoicon.png"] {
     right: 0;
     top: 0px;
     content: " ";
-    background: url(https://i.imgur.com/w8MXd9p.jpg);
+    background: url(IMAGE LINK);
     background-size: 100% 100%;
     width: 1920px;
     height: 1080px;
