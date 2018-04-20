@@ -371,19 +371,14 @@ div.scrollContainer.smoothScrollY::-webkit-scrollbar-thumb {
 #loginPage {	
     position: absolute;
     left: 0;
+    right: 0;
+    top: 130px;	
     background: url(https://i.imgur.com/tsZhhc7.png);
     background-size: 100% 100%;
     width: 1370px;
     height: 486px;	
 }
 
-#loginPage {
-.formManualLoginForm;
-    left: 0;
-    right: 0;
-    top: 130px;	
-}
-	
 #loginPage h1 {
     display: none;
 }	
