@@ -368,7 +368,8 @@ div.scrollContainer.smoothScrollY::-webkit-scrollbar-thumb {
 .pageTitleWithLogo {
   background-image: url(https://cdn.rawgit.com/BenZuser/Emby-Dark-Themes-Resources/master/images/logos-and-icons/BLUE/logo.png) !important; }
 
-#loginPage {	
+#loginPage {
+    width: 50%;	
     position: absolute;
     left: 0;
     background: url(https://i.imgur.com/tsZhhc7.png);
@@ -378,7 +379,8 @@ div.scrollContainer.smoothScrollY::-webkit-scrollbar-thumb {
 }
 
 #loginPage h1 {
-    content: url(http://www.starbuckspr.com/wp-content/uploads/2016/11/S-WEB-BANNER-1800x400.jpg); !important; }
+    display: none;
+}	
 
 /*Hide Media Info*/
 div.verticalSection.detailVerticalSection.audioVideoMediaInfo {
