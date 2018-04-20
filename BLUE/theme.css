@@ -377,6 +377,13 @@ div.scrollContainer.smoothScrollY::-webkit-scrollbar-thumb {
     height: 486px;	
 }
 
+#loginPage {
+.formManualLoginForm;
+    position: fixed;
+    width: 777px;
+    height: 422px;	
+}
+	
 #loginPage h1 {
     display: none;
 }	
