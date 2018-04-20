@@ -58,7 +58,7 @@ _________________________________________________________________________
 /* ----- 1.1 Buttons ----- */
 /* 1.1.1 Checkboxes */
 .emby-checkbox:checked + span + span + .checkboxOutline > .checkboxOutlineTick {
-  background-color: #4285F4 !important;}
+  background-color: #4285F4 !important; }
 
 .emby-checkbox:checked + span + span + .checkboxOutline,
 .progressring-spiner {
