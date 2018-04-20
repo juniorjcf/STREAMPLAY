@@ -441,6 +441,11 @@ select option {
 .guide-headerTimeslots {
   color: #ccc !important; }
 
+/*Hide Media Info*/
+div.verticalSection.detailVerticalSection.audioVideoMediaInfo {
+  display: none;
+}
+
 /* ----- 2.3 Fixes ----- */
 /* 2.3.1 Dark Colors */
 .autoorganizetable tbody tr:nth-child(odd) td, .autoorganizetable tbody tr:nth-child(odd) th {
