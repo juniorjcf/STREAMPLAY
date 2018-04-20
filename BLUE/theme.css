@@ -73,6 +73,9 @@ _________________________________________________________________________
   background: #404040 !important;
   color: #fff !important; }
 
+ input[type="checkbox"];
+   top: 50px;;
+}
 .button-submit, .button-accent {
   background: #4285F4 !important;
   color: #fff; 
