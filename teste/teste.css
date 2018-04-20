@@ -14,7 +14,7 @@ img[src*="css/images/mblogoicon.png"] {
     display: none;
 }
 #loginPage {
-    padding-top: 100px;
+    padding-top: 30px;
 }
 #loginPage:before {
     position: absolute;
@@ -22,9 +22,9 @@ img[src*="css/images/mblogoicon.png"] {
     margin-right: auto;
     left: 0;
     right: 0;
-    top: 0px;
+    top: 15px;
     content: " ";
-    background: url(URLTOIMAGE.png);
+    background: url(http://www.guoguiyan.com/data/out/67/68417779-facet-wallpapers.jpg);
     background-size: 100% 100%;
     width: 1920px;
     height: 1080px;
