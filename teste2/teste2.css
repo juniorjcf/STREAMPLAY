@@ -10,6 +10,9 @@
 img[src*="css/images/mblogoicon.png"] {
     display: none;
 }
+#loginPage h1 {
+    display: none;
+}
 #loginPage {
     padding-top: 100px;
 }
@@ -25,7 +28,4 @@ img[src*="css/images/mblogoicon.png"] {
     background-size: 100% 100%;
     width: 1920px;
     height: 1080px;
-}
-#loginPage h1 {
-    display: none;
 }
