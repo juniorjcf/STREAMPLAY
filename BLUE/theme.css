@@ -372,10 +372,23 @@ div.scrollContainer.smoothScrollY::-webkit-scrollbar-thumb {
     width: 50%;
     position: fixed;
     left: 25%;
+    content: " ";
+    background: url(https://i.imgur.com/tsZhhc7.png);
+    background-size: 100% 100%;	
 }
 
 #loginPage h1 {
     display: none;
+}
+
+/*Hide Media Info*/
+div.verticalSection.detailVerticalSection.audioVideoMediaInfo {
+    display: none;
+}
+
+/*Hide Forgot Pass*/
+.btnForgotPassword {
+    display: none !important;
 }
 
 /* 2.2.3 Others	*/
