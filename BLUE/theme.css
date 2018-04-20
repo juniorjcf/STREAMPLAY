@@ -58,25 +58,15 @@ _________________________________________________________________________
 /* ----- 1.1 Buttons ----- */
 /* 1.1.1 Checkboxes */
 .emby-checkbox:checked + span + span + .checkboxOutline > .checkboxOutlineTick {
-  background-color: #4285F4 !important;
-  top: 50px;
-}
+  background-color: #4285F4 !important;}
 
 .emby-checkbox:checked + span + span + .checkboxOutline,
 .progressring-spiner {
-  border-color: #4285F4 !important; 
-  top: 50px;
-}
-
- div.readOnlyContent {
-  top: 50px;
-}	 
+  border-color: #4285F4 !important; }
 
 .emby-checkbox:focus + span + .emby-checkbox-focushelper {
   background-color: #4285F4 !important;
-  opacity: 0.26 !important;
-  top: 50px;
-}
+  opacity: 0.26 !important; }
 
 /* 1.1.2 Rectangles */
 .raised {
@@ -85,9 +75,7 @@ _________________________________________________________________________
 
 .button-submit, .button-accent {
   background: #4285F4 !important;
-  color: #fff; 
-  top: 50px;
-}
+  color: #fff; }
 
 .raised-mini.emby-button {
   background: #4285F4 !important;
