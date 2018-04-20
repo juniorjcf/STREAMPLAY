@@ -62,20 +62,21 @@ _________________________________________________________________________
 
 .emby-checkbox:checked + span + span + .checkboxOutline,
 .progressring-spiner {
-  border-color: #4285F4 !important; }
+  border-color: #4285F4 !important; 
+  top: 50px;
+}
 
 .emby-checkbox:focus + span + .emby-checkbox-focushelper {
   background-color: #4285F4 !important;
-  opacity: 0.26 !important; }
+  opacity: 0.26 !important;
+  top: 50px;
+}
 
 /* 1.1.2 Rectangles */
 .raised {
   background: #404040 !important;
   color: #fff !important; }
 
-.input-emby-checkbox-focushelper {
-   top: 50px;;
-}
 .button-submit, .button-accent {
   background: #4285F4 !important;
   color: #fff; 
