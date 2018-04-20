@@ -1,0 +1,17 @@
+/* Custom login screen */
+#loginPage h1 {
+    display: none;
+}
+#loginPage {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 15px;
+    content: " ";
+    background: url(https://i.imgur.com/tsZhhc7.png);
+    background-size: 100% 100%;
+    width: 1370px;
+    height: 472px;
+}
