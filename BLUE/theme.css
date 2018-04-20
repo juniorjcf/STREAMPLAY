@@ -75,7 +75,9 @@ _________________________________________________________________________
 
 .button-submit, .button-accent {
   background: #4285F4 !important;
-  color: #fff; }
+  color: #fff; 
+  top: 50px;
+}
 
 .raised-mini.emby-button {
   background: #4285F4 !important;
