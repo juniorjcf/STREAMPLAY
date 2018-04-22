@@ -1,0 +1,24 @@
+#login {
+    margin: 0px;
+    background: url(https://i.imgur.com/tsZhhc7.png);
+    background-size: 100%;
+    padding: 50px 0 50px 0;
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 486px;
+    width: 1370px;
+    }
+    
+    /*Hide Forgot Pass*/
+.btnForgotPassword {
+    display: none !important;
+}
+
+/*Hide Media Info*/
+div.verticalSection.detailVerticalSection.audioVideoMediaInfo {
+    display: none;
+}
+
+#loginPage h1 {
+    display: none;
+}	
