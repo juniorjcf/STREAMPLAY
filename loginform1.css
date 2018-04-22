@@ -1,0 +1,7 @@
+#loginPage {
+    form: manualLoginForm;
+    width: 50%;
+    position: fixed;
+    left: 25%;
+    top: 26%;
+}
