@@ -1,6 +1,6 @@
 form {
     width: 50%;
-    position: fixed;
+    position: absolute;
     left: 26%;
     top: 27%;
 }
