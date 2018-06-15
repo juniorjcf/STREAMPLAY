@@ -8,14 +8,6 @@
 </channel>
 
 <channel>
-<name>[COLOR gold]FILMES[/COLOR]</name>
-<thumbnail>https://i.imgur.com/2qeYVhQ.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/juniorjcf/STREAMPLAY/master/movies.txt</externallink>
-<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
-<info>STREAMPLAY</info>
-</channel>
-
-<channel>
 <name>[COLOR gold]SERIES[/COLOR]</name>
 <thumbnail>https://i.imgur.com/54tfOGO.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/juniorjcf/STREAMPLAY/master/series.txt</externallink>
@@ -35,14 +27,6 @@
 <name>[COLOR gold]RADIOS[/COLOR]</name>
 <thumbnail>https://i.imgur.com/1a2y09m.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/juniorjcf/STREAMPLAY/master/radios.txt</externallink>
-<fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
-<info>STREAMPLAY</info>
-</channel>
-
-<channel>
-<name>[COLOR gold]YOUTUBE[/COLOR]</name>
-<thumbnail>https://i.imgur.com/Vht14Uv.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/juniorjcf/STREAMPLAY/master/youtube.txt</externallink>
 <fanart>https://i.imgur.com/J4ufm42.jpg</fanart>
 <info>STREAMPLAY</info>
 </channel>
